@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 /**
  * Created by linchen on 18-12-12.
  * mail: linchen@sogou-inc.com
+ * 插件的BaseActivity类，主要使用代理的方式去加载一个Activity
  */
 @SuppressLint("Registered")
 public class BaseActivity extends Activity implements ProxyPluginCallback {

@@ -5,5 +5,5 @@ package com.lin.pluginapk;
  * mail: linchen@sogou-inc.com
  */
 public class PluginConstant {
-    public static final boolean IS_PLUGIN = false;
+    public static final boolean IS_PLUGIN = true; //是否支持插件
 }
